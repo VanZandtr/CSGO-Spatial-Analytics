@@ -7,6 +7,22 @@
 * https://www.kaggle.com/skihikingkevin/csgo-matchmaking-damage
 
 ## Intro/Descriptions
+This project aims to classify teams of players for the popular game Counter Strike: Global Offensive (2012) or CSGO. This initial step in the project is looking to group teams into 1 of 5 categories: Entry, Fragger, Support, Sniper, or Assualt which all relay typical yet non-rigid player archtypes seen at levels of play. From there we hope to apply this data as well developed positional maps provided by density heatmaps to suggest lines of play to a future AI project.
+
+## Images
+
+### Heatmap Example
+Mirage Map post bomb plant A where CT loses the round
+<img style="float: left;" src="HeatMaps/ATT/Postplant/CT/Mirage_CT_Loses_Postplant_A_ATT.png">
+
+### Code Output example (50 Games)
+<img style="float: left;" src="pics/Output_example.PNG">
+
+### Algorithm Analysis and Outputs
+<img style="float: left;" src="AlgorithmOutput/AlgorithmComparison.png">
+<img style="float: left;" src="AlgorithmOutput/Pair_Graph_2-28-2021.png">
+<img style="float: left;" src="AlgorithmOutput/ClassifierTree.PNG">
+<img style="float: left;" src="AlgorithmOutput/Seaborn_AxisGrid_2-28-2021.png">
 
 ## Folders & Files
 * src.py: Brings in data, sorts data, and filters for non-eco rounds
