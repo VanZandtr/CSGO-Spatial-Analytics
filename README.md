@@ -7,7 +7,7 @@
 * https://www.kaggle.com/skihikingkevin/csgo-matchmaking-damage
 
 ## Intro/Descriptions
-This project aims to classify teams of players for the popular game Counter Strike: Global Offensive (2012) or CSGO. This initial step in the project is looking to group teams into 1 of 5 categories: Entry, Fragger, Support, Sniper, or Assualt which all relay typical yet non-rigid player archtypes seen at levels of play. From there we hope to apply this data as well developed positional maps provided by density heatmaps to suggest lines of play to a future AI project.
+This project aims to classify teams of players for the popular game Counter Strike: Global Offensive (2012) or CSGO. This initial step in the project is looking to group teams into 1 of 5 categories: Entry, Fragger, Support, Sniper, or Assualt, which all relay typical yet non-rigid player archtypes seen at all levels of play. From there we hope to apply this data as well developed positional maps provided by density heatmaps to suggest lines of play to a future AI project.
 
 ## Images
 
